@@ -3,6 +3,9 @@
 ## Activity 1 
 [Activity 1 Screenshot](/Screenshots/screenshot_1.png)
 
+## Activity 2
+Activity 2 didn't require us to upload screenshots to ReadMe.md, therefore the screenshot for this acitivty is only on the Screenshots folder in "main" branch since it said "Add a screenshot for the output of the merge command on the “main” branch. Commit and push the changes."
+
 ## Activity 3
 [Activity 3 Screenshot](/Screenshots/screenshot_3.png)
 
