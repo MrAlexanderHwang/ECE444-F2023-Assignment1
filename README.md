@@ -8,3 +8,6 @@
 
 ## Activity 4
 [Activity 4 Screenshot](/Screenshots/screenshot_4.png)
+
+## Activity 5
+[Activity 5 Screenshot](/Screenshots/screenshot_5.png)
